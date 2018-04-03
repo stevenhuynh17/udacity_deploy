@@ -18,7 +18,7 @@ Deploying a project into the internet
 
 ## Notes
   - Left SSH port 22 open to allow me to work on these projects at my job.
-  Port 2200 does not connect over my workplace wifi, but does at home. 
+  Port 2200 does not connect over my workplace wifi, but does at home.
 
 
 ## Third Party Resources
@@ -26,6 +26,9 @@ Deploying a project into the internet
   - PostgreSQL
   - Apache
   - WSGI
+
+## References
+  - https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
 
 ## Author
 Steven Huynh
